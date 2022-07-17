@@ -38,7 +38,7 @@
         $conn->close();
         }
     }else {
-            echo "Fill all Details";
+            echo "Details Not Found";
             die();
         }
 ?>
