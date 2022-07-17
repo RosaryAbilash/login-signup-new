@@ -1,3 +1,4 @@
+<?php
 <html>
     <head><title>Login And Signup</title>
     <link rel="stylesheet" href="login.css">
@@ -30,3 +31,4 @@
         <script src="script.js"></script>
     </body>
 </html>
+?>
